@@ -6,4 +6,4 @@ loginHeader.addEventListener("click", () => {
 });
 signupHeader.addEventListener("click", () => {
     wrapper.classList.remove("active");
-}); 
+});
